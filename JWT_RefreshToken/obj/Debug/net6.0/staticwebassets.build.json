@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c+QkegoY2pLGK2twCSXLjxIWySNQOIdDiL+IiDZnIvg=",
+  "Source": "JWT_RefreshToken",
+  "BasePath": "_content/JWT_RefreshToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
