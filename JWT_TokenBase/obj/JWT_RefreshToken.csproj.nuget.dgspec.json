@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pezeshkian\\Desktop\\c#Projects\\JWT_RefreshToken\\JWT_RefreshToken\\JWT_RefreshToken.csproj": {}
+    "C:\\Users\\pezeshkian\\Desktop\\c#Projects\\JWT_TokenBase\\JWT_RefreshToken\\JWT_RefreshToken.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pezeshkian\\Desktop\\c#Projects\\JWT_RefreshToken\\JWT_RefreshToken\\JWT_RefreshToken.csproj": {
+    "C:\\Users\\pezeshkian\\Desktop\\c#Projects\\JWT_TokenBase\\JWT_RefreshToken\\JWT_RefreshToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pezeshkian\\Desktop\\c#Projects\\JWT_RefreshToken\\JWT_RefreshToken\\JWT_RefreshToken.csproj",
+        "projectUniqueName": "C:\\Users\\pezeshkian\\Desktop\\c#Projects\\JWT_TokenBase\\JWT_RefreshToken\\JWT_RefreshToken.csproj",
         "projectName": "JWT_RefreshToken",
-        "projectPath": "C:\\Users\\pezeshkian\\Desktop\\c#Projects\\JWT_RefreshToken\\JWT_RefreshToken\\JWT_RefreshToken.csproj",
+        "projectPath": "C:\\Users\\pezeshkian\\Desktop\\c#Projects\\JWT_TokenBase\\JWT_RefreshToken\\JWT_RefreshToken.csproj",
         "packagesPath": "C:\\Users\\pezeshkian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pezeshkian\\Desktop\\c#Projects\\JWT_RefreshToken\\JWT_RefreshToken\\obj\\",
+        "outputPath": "C:\\Users\\pezeshkian\\Desktop\\c#Projects\\JWT_TokenBase\\JWT_RefreshToken\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pezeshkian\\AppData\\Roaming\\NuGet\\NuGet.Config",
